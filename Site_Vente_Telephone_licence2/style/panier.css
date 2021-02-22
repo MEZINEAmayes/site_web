@@ -1,0 +1,110 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    background-image: url("../images/background.png"); 
+    background-size: 100%;
+}
+form{
+    border: 3px solid white;
+    background-size: auto;
+}
+input{
+    width: 100%;
+    font-size: 18px;
+    padding: 16px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid white;
+    box-sizing: border-box;
+}
+
+.check{
+    width: 15px;
+}
+button:hover{
+    color:gray;
+}
+button{
+    background-color: khaki;
+    font-size: 22px;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: None;
+    cursor: pointer;
+    width: 100%;
+}
+
+.imgcontainer{
+    text-align: center;
+    margin: 24px 0 12px 0;
+    
+}
+img.avatar{
+    width: 300px;
+    border-radius: 30%;
+}
+.container1{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 5%;
+    background: url(../images/fond-form.jpg);
+
+
+}
+.container2{
+    width: 95%;
+    padding: 15px;
+
+}
+
+.radio{
+ display: inline;
+ margin-left:0px;
+ 
+ padding: 10px 10px;
+ text-align: center;
+}
+
+label {
+  margin-right: 15px;
+  line-height: 32px;
+}
+
+
+
+input:checked {
+  border: 6px solid black;
+}
+
+button,
+legend {
+  color: white;
+  background-color: black;
+  padding: 5px 10px;
+  border-radius: 0;
+  border: 0;
+  font-size: 14px;
+}
+
+button:hover{ color: khaki; }
+
+
+
+button:active {
+  background-color: white;
+  color: black;
+  outline: 1px solid black;
+}
+
+.radio input {
+    display: inline;
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 0px;
+     cursor: pointer;
+}
+
+.radio img{
+    bottom: 30px;
+}
