@@ -1,12 +1,1 @@
-Ce mini-projet est fait par :
 
- |-----------|------------|--------------|--------------|
- |    Nom    |   Prénom   |    Section   |    Groupe    |
- |-----------|------------|--------------|--------------|  
- |   Douki   |    Idir    |      01      |      04      |
- | Cherfioui |   Karima   |      01      |      04      |
- |  Chahet   |   Sid Ali  |      01      |      04      |
- | Boudjemai |     Ali    |      01      |      03      |
- |   Djema   |   Mouloud  |      01      |      04      |
- |   Mezine  |   Amayes   |      02      |      03      |
- |-----------|------------|--------------|--------------|
